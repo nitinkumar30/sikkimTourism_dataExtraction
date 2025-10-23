@@ -5,7 +5,7 @@
 
 ## 💡 The Grand Idea
 
-Ever opened the [Sikkim Tourism “Travel Agents” page](https://sikkimtourism.gov.in/Public/TravellerEssentials/TravelAgents) and thought —  
+Ever opened the [Sikkim Tourism “Travel Agents”](https://sikkimtourism.gov.in/Public/TravellerEssentials/TravelAgents) page and thought —  
 > “Wow… this would make a great **automation project** if I had an **infinite patience bar**.”
 
 So here it is — **a Python + Selenium script** that:
@@ -164,3 +164,4 @@ It’s free, dopamine-inducing, and makes the world a slightly more automated pl
 
 Follow me for more projects that make lazy look efficient:
 🔗 [LinkedIn](https://linkedin.com/in/nitin30kumar/) | 💻 [GitHub](https://github.com/nitinkumar30/)
+
